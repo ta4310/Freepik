@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "freepikproject",
+  "private_key_id": "25c3cc5c26db3cbf0783a4a0636ed90da92454ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/N6UxQJgnKxL6\nP/Ot5wEJLfTfriz4rnIh6QRTEzdl38Gjj/jCbfWCOvm8RkitfPew+oQYW7V+lfmc\nqFM+4tiiklDU9PzDI9jAz6T36AjlM690xBFisL1Ku5XOOHvRMqYwoOt5dWAczRXy\nwoAUe8FkEsx5Jb40ZMUVcUcyDBdJutqdvJtOW9OL9vrdyIW0W+tjP7jjDN0nem/q\nKO9UdhndCTMSAon6t2ApvqzsWW3Pwjt3C6UeG6HZa/0qVW/DeKIuaD7AzUQTsec0\niWi5pSyVNUaVe46ftHfh2jSBqvLjpkuGZGeZFHX8jGMhSW2VCOd4J61atKkoaSCI\nl7tk4FC7AgMBAAECggEAHp9LWyncXq7Ck++t7ImesYOklYsP31DAgmG4tD0oQAOn\nal7iGEZXwjVY99J298xC4RrIEMaPDZNNrXg0wftoyhA4gFeDgGoQikA2oQ+Nwnbr\n1aft839uW7YoICW3iSGyr6hK+DaDNS7ldu0NvzoFFyuo3IszfLHZRhJ6s68ark8b\nRJ9UYFaLso6oT2KyKHgnYcnQM6YPlvz7Gfbx3HlGlY0ppEEVK8hBjU6SJVqww1Qj\n67lOOOBQkG2l29Ux24SE3a5CKSGdVq4r8MkjHO55dFMUdZRi2cg2NXDvXg+x7lk7\nbqqpt/KUZQHeD6G6YcWiVKeQ9UjPSpyDa1vAs6gBEQKBgQD/5Gt4a96YDOSgNN+/\nni/2nRwD3S2GLyvKFqor+ksvZgPStPCu5J9HN5yUMsqIcSX4az6K3pEZrmoUPKzd\nndhYlqW/SDRvNX7Y48NaRxy5xsQwaFhkyWDF4PqCGiTshItCGifsLVfTSRFb8dES\nQYIMHGssGENbtXWSbiYSmHB3XQKBgQC/TEE5h0YfUkNxGWVcpzKcUIJldCprg8gm\nM5TZnJlzL2WIRDii8qR2zMMQMIVdMqaOqfn37sI5UMsWHVfXc3m9NH2Ba8nldqTS\nAw0nIVWr7cOX07ZyY/wc3Tvgzkjd4UwBLkuH1FqnS/zppqt7Sq4oXUR1PO+KWFYp\nh+sUix1e9wKBgF6DcaZiwS6L5I2/uby+opyF3ukWclATcCsOQABKTCbPmS3kItmW\nG7ZkNfMO53uJvyqIAeus1Q8VOp0K5BZezJ+71LBX7PX+XkGhrm/TwCpl3eS7RZrE\nPngX5q7TFTw+oGjj3EcBYGTrofvBzyTdCTmL7ZG1zHs9BJX3FRzdLP0JAoGBAI7f\ncft4Z8vu0cX/tK+dhHQwwSLqvt/r3amCbtKUXhskNA2w/ifdVy4PQkSuKHzx3mnA\n05vz64WJLRTIN5oHec3xDSeDDJhfozvi4YjvIaA2BRY5HhOTT3FzXkxJZSyqHuzm\n2ayJ0mcOnscXHw4HOcmV1xJEv5cw4LFF/TIrsHUDAoGBAMk3Xr5wxDn1F//GK+lt\n025j3+1JnrfC2VQScbukxC/IQhK5j3QdlUv2fwZuYiSE6laO8Opi7vdOjll3KB2j\n9paSVxZ7HvxuH6BuxGJ2lheOuM+agbkGD48UDv3nEz864DgDwav0w1JaBA3S0Nne\nOHjQRQYYWTGU4ALHdDAUh02S\n-----END PRIVATE KEY-----\n",
+  "client_email": "tarunadityaservice@freepikproject.iam.gserviceaccount.com",
+  "client_id": "106646231124606990291",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tarunadityaservice%40freepikproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
